@@ -2,7 +2,7 @@
   "unity": "2017.1", 
   "version": "7.1.111", 
   "dependencies": {
-    "com.google.external-dependency-manager": "git@bitbucket.org:cool_cloud/ExternalDependencyManager.git"
+    "com.google.external-dependency-manager": "https://github.com/CoolCloud/ExternalDependencyManager.git"
   }, 
   "name": "com.ironsource.integrationmanager", 
   "keywords": [
