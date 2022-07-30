@@ -1,0 +1,16 @@
+{
+  "unity": "2017.1", 
+  "version": "7.1.111", 
+  "dependencies": {
+    "com.google.external-dependency-manager": "git@bitbucket.org:cool_cloud/ExternalDependencyManager.git"
+  }, 
+  "name": "com.ironsource.integrationmanager", 
+  "keywords": [
+  ], 
+  "description": "", 
+  "displayName": "IronSource IntegrationManager", 
+  "author": {
+    "name": "IronSource", 
+    "url": "https://developers.ironsrc.com/ironsource-mobile/unity/unity-plugin/#step-1"
+  }
+}
